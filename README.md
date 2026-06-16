@@ -1,4 +1,4 @@
-# Student-Attendance-Data-Analysis#
+# Class-Lens#
 Student Attendance Analytics Dashboard featuring data cleaning, KPI tracking, attendance trends, and branch-wise performance analysis and 
 visualization of 32K+ attendance records across 800 students and 4 branches of my college, which are recorded in the Google Sheets.
 
